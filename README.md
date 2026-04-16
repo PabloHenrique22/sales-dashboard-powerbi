@@ -1,82 +1,78 @@
-# 📊 Sales Performance Dashboard (Power BI)
+# 📊 Sales Performance Dashboard | Power BI
 
-## 📌 Sobre o Projeto
+## 🚀 Overview
 
-Este projeto tem como objetivo analisar o desempenho de vendas de uma empresa fictícia, utilizando dados estruturados e visualizações interativas no Power BI.
-
-O dashboard foi desenvolvido com foco em métricas de negócio (KPIs), permitindo identificar padrões, eficiência operacional e oportunidades de melhoria.
+Este projeto apresenta um dashboard interativo desenvolvido no Power BI para análise de desempenho de vendas, com foco em métricas de negócio e tomada de decisão.
 
 ---
 
-## 🎯 Objetivos da Análise
+## 🎯 Problema de Negócio
 
-* Avaliar a **receita total** e o desempenho financeiro
-* Medir a **lucratividade (margem)**
-* Analisar o **ticket médio por pedido**
-* Identificar possíveis problemas no processo de vendas (cancelamentos)
-* Gerar insights para tomada de decisão
+Empresas precisam entender:
 
----
+* Se estão realmente lucrando
+* Quais fatores impactam receita
+* Onde estão perdendo vendas
 
-## 📊 KPIs Desenvolvidos
-
-* 💰 **Receita Total:** ~ R$ 1.000.000
-* 💸 **Lucro Total:** ~ R$ 495.000
-* 📈 **Margem:** 39,45%
-* 🧾 **Ticket Médio:** ~ R$ 2.500
-* 🔄 **Taxa de Cancelamento:** 22,4%
+Este projeto responde essas perguntas através de KPIs estratégicos.
 
 ---
 
-## 🧠 Principais Insights
+## 📊 KPIs Principais
 
-* A operação apresenta uma **margem elevada (39,45%)**, indicando boa eficiência operacional.
-* O **ticket médio alto (~R$ 2.500)** sugere foco em produtos de maior valor agregado.
-* Apesar da boa rentabilidade, a **taxa de cancelamento (22%) está elevada**, o que pode impactar a receita e indica necessidade de investigação no processo de vendas ou logística.
+* 💰 Receita Total: ~ R$ 1M
+* 💸 Lucro Total: ~ R$ 495K
+* 📈 Margem: 39,45%
+* 🧾 Ticket Médio: ~ R$ 2.500
+* 🔄 Cancelamento: 22,4%
 
 ---
 
-## 🛠️ Ferramentas Utilizadas
+## 🧠 Insights
+
+* A empresa apresenta **alta lucratividade (39,45%)**, indicando boa eficiência operacional
+* O **ticket médio elevado** sugere foco em produtos de maior valor agregado
+* A **taxa de cancelamento (22%) é alta**, indicando possíveis problemas operacionais
+
+---
+
+## 🛠️ Tecnologias
 
 * Power BI
-* Power Query (ETL e tratamento de dados)
-* DAX (criação de medidas e KPIs)
+* Power Query
+* DAX
 
 ---
 
 ## ⚙️ Tratamento de Dados
 
-Durante o desenvolvimento, foram realizados ajustes importantes:
-
-* Conversão de colunas de texto para número decimal
-* Correção de localidade (formato US → BR)
-* Padronização de métricas e cálculos
-* Criação de medidas DAX para maior confiabilidade
+* Correção de tipos de dados (texto → número)
+* Ajuste de localidade (US → BR)
+* Criação de medidas DAX
 
 ---
 
 ## 📷 Dashboard
 
-*(Adicione aqui prints do seu dashboard)*
+![Dashboard](images/dashboard.png)
 
 ---
 
-## 🚀 Possíveis Melhorias
+## 🚀 Próximos Passos
 
-* Análise por região e produto
-* Identificação de causas de cancelamento
-* Integração com APIs para dados em tempo real
-* Automação de alertas de KPIs
+* Análise por região
+* Automação de alertas de KPI
+* Integração com API
 
 ---
 
 ## 👨‍💻 Autor
 
-Pablo Henrique Alves Oliveira
-Analista de Dados (em formação)
+Pablo Henrique
 
 ---
 
-## 📬 Contato
+## 🔗 LinkedIn
+
 
 [*(adicione seu LinkedIn aqui)*](https://www.linkedin.com/in/pablo-henrique-alves-oliveira-a9506b226/)
