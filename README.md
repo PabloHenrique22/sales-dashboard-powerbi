@@ -72,11 +72,11 @@ Durante o desenvolvimento, foram realizados ajustes importantes:
 
 ## 👨‍💻 Autor
 
-Pablo Henrique
+Pablo Henrique Alves Oliveira
 Analista de Dados (em formação)
 
 ---
 
 ## 📬 Contato
 
-*(adicione seu LinkedIn aqui)*
+[*(adicione seu LinkedIn aqui)*](https://www.linkedin.com/in/pablo-henrique-alves-oliveira-a9506b226/)
